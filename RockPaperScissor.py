@@ -1,3 +1,4 @@
+
 import random
 def play_game(p,c):
     if p==1 and c==2 or p==2 and c==1:
